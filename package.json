@@ -1,0 +1,25 @@
+{
+  "name": "x-12",
+  "version": "0.1.1",
+  "description": "An attempt",
+  "main": "index.js",
+  "dependencies": {
+    "discord-anti-spam": "^1.1.6",
+    "discord.js": "^11.4.2",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "mysql": "^2.16.0",
+    "opusscript": "0.0.6",
+    "relevant-urban": "^2.0.0",
+    "roblox-js": "^4.0.4",
+    "simple-youtube-api": "^5.1.1",
+    "superagent": "^4.0.0",
+    "ytdl-core": "^0.28.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lil neo",
+  "license": "ISC"
+}
